@@ -7,8 +7,8 @@ what I found online.
 
 Here is the current list:
 
-* Zen and Art, taken from https://github.com/irfn/zen-and-art
-* Solarized Light, taken from http://ethanschoonover.com/solarized
+* Zen and Art, adapted from [irfn](https://github.com/irfn/zen-and-art)
+* Solarized Light, adapted from [Ethan Schoonover](http://ethanschoonover.com/solarized)
 
 
 
