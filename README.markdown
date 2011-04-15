@@ -18,5 +18,5 @@ The XML files should be copied to the following directory:
 
 * OS X: `~/Library/Preferences/PyCharm10/colors/` 
 * Linux: `~/.PyCharm10/config/color`
-* Windows Vista (maybe Win7): `C:\Users\$USER\.PyCharm10\config\colors`
+* Windows Vista and 7: `C:\Users\$USER\.PyCharm10\config\colors`
 * Windows XP: `C:\Documents and Settings\$USER\.PyCharm10\config\colors`
