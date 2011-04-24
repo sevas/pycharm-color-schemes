@@ -16,7 +16,12 @@ Here is the current list:
 
 The XML files should be copied to the following directory:
 
-* OS X: `~/Library/Preferences/PyCharm10/colors/` 
-* Linux: `~/.PyCharm10/config/color`
+* MacOS X: `~/Library/Preferences/PyCharm10/colors/` 
+* GNU/Linux: `~/.PyCharm10/config/color`
 * Windows Vista and 7: `C:\Users\$USER\.PyCharm10\config\colors`
 * Windows XP: `C:\Documents and Settings\$USER\.PyCharm10\config\colors`
+
+
+You might need to change the font. I recommend Menlo on OSX, Consolas on Windows and whatever default monospace font you can find on your linux box.
+
+I would stay away from Courier New. 
