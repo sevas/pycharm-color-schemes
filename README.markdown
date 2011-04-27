@@ -7,12 +7,12 @@ what I found online.
 
 Here is the current list.
 
-
+`
 ## Zen and Art 
 
 Adapted from [irfn](https://github.com/irfn/zen-and-art)
 
-![Zen & Art](https://github.com/sevas/pycharm-color-schemes/raw/master/Zen%20and520Art.png ) 
+![Zen & Art](https://github.com/sevas/pycharm-color-schemes/raw/master/Zen%20and%20Art.png ) 
 
 ## Solarized Light
 
