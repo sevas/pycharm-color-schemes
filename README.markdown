@@ -28,7 +28,7 @@ Adapted from [Ethan Schoonover](http://ethanschoonover.com/solarized)
 The XML files should be copied to the following directory:
 
 * MacOS X: `~/Library/Preferences/PyCharm10/colors/` 
-* GNU/Linux: `~/.PyCharm10/config/color`
+* GNU/Linux: `~/.PyCharm10/config/colors/`
 * Windows Vista and 7: `C:\Users\$USER\.PyCharm10\config\colors`
 * Windows XP: `C:\Documents and Settings\$USER\.PyCharm10\config\colors`
 
